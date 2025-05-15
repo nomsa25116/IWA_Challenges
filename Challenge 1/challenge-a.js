@@ -1,7 +1,6 @@
-/* This is the firstname of the user /*
 
-const user = 'John'
+// 1. Create a variable called user and assign it the value 'John'
+const user = 'John';
+const surname = 'Smith';
 
-/* This is the lastname of the user /* const surname = 'Smith'
-
-console.log(user; surname;)
+console.log(user, surname); // John Smith
