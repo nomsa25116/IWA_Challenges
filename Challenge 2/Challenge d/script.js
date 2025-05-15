@@ -1,5 +1,6 @@
-import company form 'configuration'
-import year form 'configuration'
+// scripts.js
+
+import { company, year } from './configuration.js'
 
 const message = '© ' + company + ' (' + year + ')'
 document.querySelector('footer').innerText = message
